@@ -1571,7 +1571,6 @@ dependencies = [
  "futures",
  "reqwest",
  "rust_decimal",
- "serde",
  "tokio",
  "tokio-util",
 ]
